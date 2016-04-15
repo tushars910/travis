@@ -1,1 +1,4 @@
-window.alert("HELLO TUSHAR");
+function Hello ()
+    {
+        alert("Hello World!")
+    }
