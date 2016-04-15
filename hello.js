@@ -1,1 +1,1 @@
-alert("HELLO TUSHAR");
+window.alert("HELLO TUSHAR");
